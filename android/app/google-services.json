@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895809999204",
+    "project_id": "storied-fuze-434814-s1",
+    "storage_bucket": "storied-fuze-434814-s1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895809999204:android:99f91d4bc20c38eff6aa71",
+        "android_client_info": {
+          "package_name": "com.example.sound_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKcJOP5AlRlcU0252NC9q_xZ5rlNogbb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
